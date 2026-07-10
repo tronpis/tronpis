@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7D509&multiline=true&width=435&lines=creator+off+%C3%91+lang;co-founder+off+COW+lang+organization;Quick+fox+jumps+nightly+above+wizard;creator+off+farm+game+engine" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7D509&multiline=true&width=435&height=100&lines=creator+off+%C3%91+Lang+;creator+off+farm+game+engine;+co-founder+off+COW+++lang+organization++" alt="Typing SVG" /></a>
 
 
 
